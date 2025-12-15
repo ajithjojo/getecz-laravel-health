@@ -33,7 +33,7 @@ After install, open:
 
 ---
 
-## Security (DON'T be stupid)
+## Security (Never Miss)
 
 In production, you **must** lock it down.
 
