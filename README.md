@@ -9,6 +9,9 @@ Laravel-native app health checks (DB / cache / storage / queue / cron) with a si
 
 ---
 
+![](https://i.postimg.cc/L8m4gcJW/Screenshot-2025-12-15-192905.png)
+
+
 ## Install
 
 ```bash
